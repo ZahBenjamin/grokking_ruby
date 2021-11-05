@@ -1,0 +1,1 @@
+Work from the Grokking Alogrithm book. The book is written in Python, but I am learning Ruby so I will likely have documents both in Python and Ruby.
