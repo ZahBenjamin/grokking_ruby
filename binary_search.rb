@@ -1,3 +1,4 @@
+# Chapter 1. Intro to Algorithms
 def binary_search(list, item)
   # What part of list will be searched in  
    low = 0

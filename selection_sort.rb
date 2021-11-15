@@ -1,3 +1,4 @@
+# Chapter 2. Selection sort
 def find_smallest(arr)
   smallest = arr[0] # Stores smallest value
   smallest_index = 0 # Stores index of smallest value
